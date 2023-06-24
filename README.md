@@ -1,7 +1,7 @@
-EzraDND is a simple website builder I developed for my brother.
-Using a C# API and a SQL Database, administrators are able to create, update, and delete various aspects of the website.
-With a built in text editor, adminstrators are able to update all page text.
-Administrators are identified based on their google login credentials.
+EzraDND is a simple website builder I developed for my brother.  
+Using a C# API and a SQL Database, administrators are able to create, update, and delete various aspects of the website.  
+With a built in text editor, adminstrators are able to update all page text.  
+Administrators are identified based on their google login credentials.  
 
 To run:
 1 - Restore the EzraDB SQLServer Database from the back up file.
