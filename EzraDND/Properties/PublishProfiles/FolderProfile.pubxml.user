@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>G:\Programming\Projects\EzraDNDThree\EzraDND\EzraDND\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2021-12-24T03:59:44.7175360Z;True|2021-12-20T20:27:50.0562404-05:00;True|2021-12-20T20:20:52.3957271-05:00;True|2021-12-20T20:11:43.2845288-05:00;True|2021-12-20T20:11:26.7645156-05:00;True|2021-12-20T20:08:38.2335528-05:00;True|2021-12-20T19:33:08.3664224-05:00;True|2021-12-20T19:32:16.5325323-05:00;</History>
+  </PropertyGroup>
+</Project>

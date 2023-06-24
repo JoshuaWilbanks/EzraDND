@@ -1,0 +1,139 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+}
+
+/*#282c34*/
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 5vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-bottom: 5vh;
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.wrapper-class {
+  margin-left: 25%;
+  width: 50%;
+  border: 1px solid #ccc;
+}
+
+.editor-class {
+  background-color:lightgray;
+  border: 1px solid #ccc;
+}
+.toolbar-class {
+  border: 1px solid #ccc;
+}
+.text-area {
+  text-align: center;
+  background-color: #39373d;
+}
+
+.app-style {
+  text-align: left;
+  background-color: #39373d;
+  min-height: 100vh;
+}
+/*#3b4049*/
+
+.text-editor {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.save-button {
+  width: 5%;
+  margin-left: 47.5%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.new-tab {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 25%;
+}
+
+.nav-bar-plus{
+  height: 35px;
+  margin-right: 20px;
+}
+
+.tab-plus{
+  width: 100%;
+  
+  background: none;
+  text-decoration: none;
+  padding: 15px;
+}
+
+.bubble-text {
+  color: rgb(214, 214, 214);
+  font-size: 200%;
+  font-size: 3vw;
+  text-align: center;
+  overflow-wrap: break-word;
+}
+
+.bubble-image{
+  width:100%;
+  display: inline-block;
+  border: 1px solid #39393a;
+  border-radius: 10%;
+}
+
+
+.bubble-nav-link{
+  display:inline-block;
+  width: 20%;
+  
+  margin-bottom: 20px;
+  border: 2px solid #39393a;
+  border-radius: 5%;
+  background: #aa2323;
+  text-decoration: none;
+  padding: 15px;
+
+}
+
+.bubble-html {
+  margin: 2%;
+  overflow-wrap: break-word;
+}
+
+.logout-modal{
+  border: none;
+  
+}
