@@ -3,7 +3,7 @@ Using a C# API and a SQL Database, administrators are able to create, update, an
 With a built in text editor, adminstrators are able to update all page text.  
 Administrators are identified based on their google login credentials.  
 
-To run:
+To run:  
 1 - Restore the EzraDB SQLServer Database from the back up file.
 2 - Update the database connection string located in EzraDND/appsettings.json  
 3 - Open and run the .NET API project under the EzraDND folder.  
